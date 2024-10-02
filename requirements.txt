@@ -31,7 +31,7 @@ itsdangerous==1.1.0
 Jinja2==2.10.3
 jmespath==0.9.4
 joblib==0.14.0
-jsonpickle==1.2
+jsonpickle==3.3.0
 jsonschema==3.1.1
 lazy-object-proxy==1.4.2
 MarkupSafe==1.1.1
